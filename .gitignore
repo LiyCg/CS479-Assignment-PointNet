@@ -1,7 +1,4 @@
 pointnet/data/**
-pointnet/checkpoints/classification/**
-pointnet/checkpoints/auto_encoding/**
-pointnet/checkpoints/segmentation/**
 !**/.gitkeep
 
 __pycache__/
