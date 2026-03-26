@@ -1,4 +1,6 @@
 pointnet/data/**
+pointnet/checkpoints/classification/**
+pointnet/checkpoints/segmentation/**
 !**/.gitkeep
 
 __pycache__/
