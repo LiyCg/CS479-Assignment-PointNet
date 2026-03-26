@@ -30,3 +30,6 @@ share/python-wheels/
 .installed.cfg
 *.egg
 .ipynb_checkpoints
+
+# Conda environment
+conda_envs/
